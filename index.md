@@ -38,3 +38,7 @@ We are currently working with [Mozilla Campus Club - UWU](http://facebook.com/mo
 
 Interested in our works? and Do you want our support? [Email](mailto:uwucodemasters@gmail.com) us or [Review](https://goo.gl/forms/Tpa6dLsGvNlbQPsg1) us
 
+## Join with US
+
+If you are student of [Department of Computer Science and Technology](http://www.uwu.ac.lk/academic/faculties/science-and-technology/CST/) You can join with our works. Please contact the [lead](http://shalithasuranga.me/) of the community. Furthermore anyone can participate our events if those are open to everyone.
+
