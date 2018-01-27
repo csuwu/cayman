@@ -16,10 +16,10 @@
         <img src="images/logo.jpg" class="project-logo">
       </h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href="{{ site.github.zip_url }}" class="btn"><span class="fa fa-facebook-official"></span> Facebook</a>
-        <a href="{{ site.github.tar_url }}" class="btn"><span class="fa fa-github"></span> GitHub</a>
-        <a href="{{ site.github.tar_url }}" class="btn"><span class="fa fa-twitter"></span> Twitter</a>
-        <a href="{{ site.github.tar_url }}" class="btn"><span class="fa fa-envelope"></span> Contact</a>
+        <a href="{{ site.links.facebook }}" class="btn"><span class="fa fa-facebook-official"></span> Facebook</a>
+        <a href="{{ site.links.github }}" class="btn"><span class="fa fa-github"></span> GitHub</a>
+        <a href="{{ site.links.twitter }}" class="btn"><span class="fa fa-twitter"></span> Twitter</a>
+        <a href="mailto:{{ site.email }}" class="btn"><span class="fa fa-envelope"></span> Contact</a>
     </section>
 
     <section class="main-content">

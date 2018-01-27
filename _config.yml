@@ -3,3 +3,10 @@ description: We are community of tech enthusiasts from <b>Uva Wellassa Universit
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+links:
+  -facebook: https://www.facebook.com/uwucodemasters
+  -twitter: https://www.twitter.com/uwucodemasters
+  -github: https//www.github.com/csuwu
+
+email:uwucodemasters@gmail.com
